@@ -14,7 +14,7 @@ import dj_database_url
 # Use memory: sqlite://:memory:
 # Use file: sqlite:////full_path/file.sqlite
 DATABASES = {'default': dj_database_url.parse(
-    'sqlite://:memory:')}
+    'sqlite:////hackdo.sqlite')}
 
 # For mysql
 '''

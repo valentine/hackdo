@@ -4,6 +4,8 @@ HackDo
 [![Build Status](https://travis-ci.org/wgx731/hackdo.png?branch=dev)](https://travis-ci.org/wgx731/hackdo)
 [![Build Status](https://drone.io/github.com/wgx731/hackdo/status.png)](https://drone.io/github.com/wgx731/hackdo/latest)
 
+> This is a fork of HackDo for Docker deployment. The latest development version is available [here](https://github.com/hackerspacesg/hackdo/tree/dev/hado).
+
 HackDo is meant to be a membership (and others) management system for Hackerspaces.
 
 Keeping track of membership is a chore that takes time and can end up quite messy, so let's try and solve that pain point.
